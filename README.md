@@ -5,6 +5,7 @@
 <p>&bull; Java Project files</p>
 
 <h2>Tools Used:</h2>
+<p>&bull; Java </p>
 <p>&bull; BlueJ</p>
 
 <h2>How to run the project:</h2>
